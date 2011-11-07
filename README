@@ -1,0 +1,9 @@
+# About
+Atatonic has it's main focus on typography. Vertical rhythm is one of the most important things in design and it almost always gives me troubles.
+Atatonic includes a reset CSS, Typography rules and some dandy modules for forms and a (responsive) grid.
+
+# SASS
+The CSS has been coded in SASS and it uses default variables that setup your type's line-heights and margins. 
+Fill out what kind of vertical rhythm you want and SASS creates everything automagically. Obviously you can also choose to do this yourself.
+We crated an "em()" function that allows you to use all your line-heights in pixels. The function will calculate the em value. 
+This way all copy scales nicely but the math stays in the simple "px" format.
